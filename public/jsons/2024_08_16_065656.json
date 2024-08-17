@@ -1,0 +1,10 @@
+{
+    "name": "Priya Menon",
+    "designation": "Developer",
+    "age": 26,
+    "location": "IN",
+    "joining_date": "2020-09-15",
+    "roles": [
+        "development"
+    ]
+}

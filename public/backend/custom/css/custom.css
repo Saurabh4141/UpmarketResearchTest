@@ -1,0 +1,69 @@
+
+.cursorHand {
+    cursor: pointer !important;
+}
+
+label{
+    color: #000;
+}
+
+
+.dataTables_filter {
+    display: none !important;
+}
+
+.dataTables_length{
+    display: none !important ;
+}
+
+#Table td{
+    color: #000 ;
+}
+
+/* Ajax Loader start */
+
+.avoid-clicks {
+    pointer-events: none;
+}
+
+#loader {
+    position: fixed;
+    top: 45% !important;
+    left: 50% !important;
+    z-index: 10000 !important;
+    opacity: 1 !important;
+}
+
+img#loading-image {
+    width: 94px;
+}
+/* Ajax Loader End */
+
+
+.Clabel {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    font-family: "BIZ UDPGothic", sans-serif;
+    color: #000000de;
+}
+
+
+
+.sidebar-item>.sidebar-link,.sidebar-item>.sidebar-link>svg{
+    color: #fff;
+}
+
+
+li.sidebar-item.active {
+    background-color: #007effb3;
+}
+
+small {
+    font-size: 12px;
+}
+
+
+#Table thead tr{
+    background-color: #99c8d8;
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Rajesh Nair",
+    "designation": "Developer",
+    "age": 30,
+    "location": "IN",
+    "joining_date": "2019-08-12",
+    "roles": [
+        "development"
+    ]
+}

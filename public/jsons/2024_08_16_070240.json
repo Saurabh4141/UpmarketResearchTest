@@ -1,0 +1,10 @@
+{
+    "name": "Vikas Patel",
+    "designation": "Manager",
+    "age": 35,
+    "location": "IN",
+    "joining_date": "2018-02-20",
+    "roles": [
+        "management"
+    ]
+}

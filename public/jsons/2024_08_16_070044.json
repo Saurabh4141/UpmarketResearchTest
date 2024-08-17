@@ -1,0 +1,10 @@
+{
+    "name": "Ravi Kumar",
+    "designation": "Developer",
+    "age": 29,
+    "location": "IN",
+    "joining_date": "2019-06-15",
+    "roles": [
+        "development"
+    ]
+}
